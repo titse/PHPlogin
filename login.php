@@ -1,7 +1,7 @@
 <?php
 /*
-Author: Javed Ur Rehman
-Website: https://htmlcssphptutorial.wordpress.com
+Author: Tiffany
+Website: https://codenunja.wordpress.com
 */
 ?>
 <!DOCTYPE html>
